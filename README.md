@@ -48,11 +48,28 @@ Suivez ces étapes pour installer le projet localement.
 - vous allez trouver dans le racine de projet ce fichier
   "test api upload.postman_collection.json" c'est une collection à importer dans postman
   pour pouvoir tester l'upload des images, faudrait juste dans le body=>form-data
-  dans Value importer un ou plusieurs images et lancer l'api après rendez-vous sur http://127.0.0.1:8000/login
+  dans Value importer un ou plusieurs images et lancer l'api 
+
+   *** ou **
+Dans Postman Sélectionnez la méthode "POST" et Entrer l'URL de l'API :
+
+  http://127.0.0.1:8000/api/upload
+
+-Allez dans l'onglet "Body"
+
+-Sélectionnez "form-data"
+
+-Ajoutez le champ images[]
+
+-utilisez le type "File".
+
+-Cliquez sur "Select Files" et choisissez les photos à importer
+
+- après rendez-vous a  http://127.0.0.1:8000/login
   
 - login: admin@gmail.com password: admin1234
 
- vous allez être redirigé vers une page qui affiche les images importées 
+vous allez être redirigé vers une page qui affiche les images importées 
 
 NB: j'ai rencontré un problème de mémoire au moment d'import donc j'ai augmenté le memory_limit dans php.ini
 
