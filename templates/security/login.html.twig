@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Login{% endblock %}
+
+{% block body %}
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <h1 class="text-center">Page de Conenxion</h1>
+                {% if error %}
+                    <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+                {% endif %}
+                <form  method="post">
+                    <div class="form-group">
+                        <label for="username">Email</label>
+                        <input type="text" name="_username" id="username" value="{{ last_username }}" class="form-control" required autofocus>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Mot de Passe</label>
+                        <input type="password" id="password" name="_password" class="form-control" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block mt-3">Login</button>
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}

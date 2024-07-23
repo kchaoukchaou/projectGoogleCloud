@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "s3adictizphotos",
+  "private_key_id": "7643ff5d11774938cf9bfc9b91e7fdc3e477a0e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyNgs8H/F9+p1e\nNyufusW12Zv2YYM/7YlPDFLKvAUUGnRlT2Zx/iqaXWKS0Ez7DYFy4GvNCZpRGvzl\nNkRIxjxPPejfW2CXE/efIi1Ij8OAKH3IcaUMQ26CXSriyX5djqHyOHFxWqzFaDB/\nJF4J3364Anyrj6acQrWXvMwkTBJIh+eQv9dE/lNoP0HAa0hQbeJnhia8h4ucCY4K\nF8KJCvSbHopAGoaZf5O98+jqXlwkWQuRshZ2NIJu9oWWv5atlFa1onRfEIDdgMfo\niQhJ1Uwxhzf5ZX122A07+QBn8d6KTD3aDuaWGDzNG59bG6I11cbjXA1+qG1rX26f\nWpSkrQJ/AgMBAAECggEAJRGYxKjgUpQOp8pSCKeQ+IKLLnSaGHIQXaDyl7kEVWor\nS+d4J732nqVOG7u4R4BHrN2BjuSwdK5obEUdbwXNBa6bAdq//KzqlO9G/BDrWX0S\nrN72tdZQ5kz63rGK12sTxI55ClsSFP3XGJs39FXIxf2+cPEwdtBpdWaQD/zC0NMa\n6l08BzKz4QciSrosiLYBSijA76TN7oajKsHLsptmALVk4tW9y4sQnj3upkmp+KL/\n2nn42B5/QAqo1oS9wHdWZJHNedrDFTDjU3A9AG2HRNLEW9v57WvJ5iBYyNBS/D0N\n+eRMAGJoHU738hJIsg6gtCo/bNHs21leS2dHaI4sAQKBgQDoezhYWyL6KDtaaxr5\nQllB7hAEQUrC+Fpo0GZPpLA80SS51Zlr3fL3B6icc9zu02q3xqO3pxw//8NfXmFW\ntBg0LHjEbdMAbBgJdCpZ06qFIW1Fmzs6h1iBhy0lznLg7uPPYX51mCAAbsOB7RTn\nOc2x9cBA8O6SlLkbGHac7fIJZwKBgQDEPVazHKj2U1bFWGKARx9BheR/xQuNYmV/\no/dWQ8U5EF9Eiw5QMSq7L2kagXeBtHF5GUtNpJc4PvBHP+zkiLaY/2TXYqm6bzs2\nj6VIlwVf9SvNb5YFdpomaXyM6AxKSpS1jUEBuv6vwRDOFhjbWoq7786Czk00IQya\n8vRwzlzXKQKBgC6P71sS9dBwmmKjrQVbWpEv4xlXEmg2YbU4eCVfcMTdhqOJum62\nR2FesVCUjB1xTqB8MnIoECppSXIibxB0hZx9g7qj3GzrOW07TPgswqxjY4Vbb+Nr\nFDjtIAfAb5XJgusYNcHLtC0iAhpVp6ggFaic9eKL3tyQ2PoqTidkKOPlAoGBALu2\n+RJIXg+S1LPdwgt2/R0OWO8nq89IylJ4pAXuud/GG3tTkROAlKGNzno+UfTOiKUQ\nXwocYVK6Udm1+oL5i8F6vBmUFUtzTy735WE0pT2PJqFTFiyPsREBYtTeu7Ls+Kda\nQU7IcwvoII0ichCR4Ze44tAZS5yL6KTnto+ZtxFRAoGANjIg4K/7laBeHqgjqz4n\njsvtrnlb48h3iT7rT74XyyHf784tijlvauBADvvd0YXKQhV1GZ4ssbDAQOVEizrP\nk3sysIhSc59Y1POo82+Z7S8olCLVirnAdhlvSlPOhjQvNMuktRvtewsMKTpQsjoa\nQTS+q/OsDlOgMkbqtWz/7As=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yk-compte-service@s3adictizphotos.iam.gserviceaccount.com",
+  "client_id": "103283220272213457397",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yk-compte-service%40s3adictizphotos.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
